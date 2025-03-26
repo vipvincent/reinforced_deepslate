@@ -1,13 +1,20 @@
 {
     "pack": { 
-        "pack_format": 61,
-        "supported_formats":{"min_inclusive": 16, "max_inclusive": 61},
-        "description": "§eAvailable Reinforced Deepslate\n可獲得強化深板岩§6v1.4"
+        "pack_format": 71,
+        "supported_formats":{"min_inclusive": 16, "max_inclusive": 71},
+        "description": "§eAvailable Reinforced Deepslate §6v1.5§r\n§bMade By vipvincent"
     },
     "overlays": {
         "entries": [
             {
-                "directory": "1.20.2-1.20.6",
+                "directory": "overlay_45-61",
+                "formats": {
+                    "min_inclusive": 45,
+                    "max_inclusive": 61
+                }
+            },
+            {
+                "directory": "overlay_16-44",
                 "formats": {
                     "min_inclusive": 16,
                     "max_inclusive": 44
