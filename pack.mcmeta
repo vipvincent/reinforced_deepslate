@@ -1,8 +1,8 @@
 {
     "pack": { 
-        "pack_format": 80,
-        "supported_formats":{"min_inclusive": 16, "max_inclusive": 80},
-        "description": "§eAvailable Reinforced Deepslate §6v1.6 §r§bMade By vipvincent"
+        "pack_format": 81,
+        "supported_formats":{"min_inclusive": 16, "max_inclusive": 81},
+        "description": "§eAvailable Reinforced Deepslate §6v1.7 §r§bMade By vipvincent"
     },
     "overlays": {
         "entries": [
