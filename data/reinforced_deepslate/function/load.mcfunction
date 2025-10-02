@@ -1,1 +1,1 @@
-tellraw @a [{"text": "§eAvailable Reinforced Deepslate 可獲得強化深板岩","clickEvent": {"action": "open_url","value": "https://modrinth.com/datapack/reinforced_deepslate"}},{"text": "§6v1.7"}]
+tellraw @a [{"text": "§eAvailable Reinforced Deepslate 可獲得強化深板岩","clickEvent": {"action": "open_url","value": "https://modrinth.com/datapack/reinforced_deepslate"}},{"text": "§6v1.8"}]
